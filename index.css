@@ -39,9 +39,6 @@ h2 {
   flex-wrap: wrap;
   padding-bottom: 15px;
 }
-/* .input-box:nth-child(2n) {
-  justify-content: end;
-} */
 .input-box label,
 .gender-title {
   width: 95%;
